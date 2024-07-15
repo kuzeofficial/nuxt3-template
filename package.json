@@ -18,7 +18,7 @@
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
     "@nuxtjs/eslint-module": "^4.1.0",
     "@nuxtjs/tailwindcss": "^6.10.4",
-    "@vitest/ui": "^1.2.0",
+    "@vitest/ui": "^2.0.2",
     "@vue/test-utils": "^2.4.3",
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
